@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Dropbox/src/udacity_course_apps/05_databases/P05InventoryApp/P05InventoryApp.iml" filepath="$USER_HOME$/Dropbox/src/udacity_course_apps/05_databases/P05InventoryApp/P05InventoryApp.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/src/udacity_course_apps/05_databases/P05InventoryApp/app/app.iml" filepath="$USER_HOME$/Dropbox/src/udacity_course_apps/05_databases/P05InventoryApp/app/app.iml" />
+    </modules>
+  </component>
+</project>
